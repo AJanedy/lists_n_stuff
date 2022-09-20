@@ -19,3 +19,11 @@ print(student_list)
 student_list.sort()
 
 print(student_list)
+
+student_list.pop(4)
+
+print(student_list)
+
+student_list.remove(student_list[0])
+
+print(student_list)
